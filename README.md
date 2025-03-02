@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumy1905" alt="saumy1905" /></a> </p>
 
-- 🔭 I’m currently working on **SWOC**
+- 🔭 I’m currently working in **SWOC**
 
 - 🌱 I’m currently learning **React Native Expo, React.js, Next.js, spring boot, node.js**
 
