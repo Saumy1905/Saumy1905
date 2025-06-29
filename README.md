@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Pro&size=25&pause=10&color=61AFEF&center=true&vCenter=true&width=1000&lines=project+admin+@ssoc;former+contributor+@swoc+and+@gssoc;Data+Science+Learner;)
 
----
-
 ## 💼 Professional Experience
 
 <details>
@@ -35,8 +33,6 @@
 - **PYQFort** (June 2025 – Present)
 
 </details>
-
----
 
 ## 🌟 Professional Journey
 
