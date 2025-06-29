@@ -114,12 +114,6 @@ graph LR
 
 </div>
 
-## 💡 Featured Contributions
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saumy1905&theme=react-dark&hide_border=true" />
-</div>
-
 *Thanks for visiting! Let's build something amazing together.* 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
