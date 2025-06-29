@@ -61,8 +61,6 @@ graph LR
 - 📚 Developing comprehensive software solution
 - 🛠️ Implementing GitHub project management
 
----
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saumy1905&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
@@ -98,16 +96,12 @@ graph LR
   <img src="https://img.shields.io/badge/MCP-⚡-orange?style=for-the-badge" />
 </div>
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saumy1905&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saumy1905&theme=radical&hide_border=true" />
 </div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -119,8 +113,6 @@ graph LR
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/saumy1905)
 
 </div>
-
----
 
 ## 💡 Featured Contributions
 
