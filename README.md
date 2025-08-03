@@ -49,7 +49,7 @@ graph LR
 ### 🎓 PYQFort - Democratizing Education
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contributors-49+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributors-61+-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Colleges-40+-orange?style=for-the-badge" />
 </div>
 
@@ -57,7 +57,7 @@ graph LR
 
 **A small contribution to nation by:**
 - 🏫 Merging 40+ colleges nationwide to PYQFort
-- 👥 Managing community of 49+ contributors
+- 👥 Managing community of 61+ contributors
 - 📚 Developing comprehensive software solution
 - 🛠️ Implementing GitHub project management
 
